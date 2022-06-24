@@ -1,0 +1,15 @@
+C:\Users\estel\OneDrive\Escritorio\Exepciones\bin\Debug\net6.0\Exepciones.exe
+C:\Users\estel\OneDrive\Escritorio\Exepciones\bin\Debug\net6.0\Exepciones.deps.json
+C:\Users\estel\OneDrive\Escritorio\Exepciones\bin\Debug\net6.0\Exepciones.runtimeconfig.json
+C:\Users\estel\OneDrive\Escritorio\Exepciones\bin\Debug\net6.0\Exepciones.dll
+C:\Users\estel\OneDrive\Escritorio\Exepciones\bin\Debug\net6.0\Exepciones.pdb
+C:\Users\estel\OneDrive\Escritorio\Exepciones\obj\Debug\net6.0\Exepciones.csproj.AssemblyReference.cache
+C:\Users\estel\OneDrive\Escritorio\Exepciones\obj\Debug\net6.0\Exepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estel\OneDrive\Escritorio\Exepciones\obj\Debug\net6.0\Exepciones.AssemblyInfoInputs.cache
+C:\Users\estel\OneDrive\Escritorio\Exepciones\obj\Debug\net6.0\Exepciones.AssemblyInfo.cs
+C:\Users\estel\OneDrive\Escritorio\Exepciones\obj\Debug\net6.0\Exepciones.csproj.CoreCompileInputs.cache
+C:\Users\estel\OneDrive\Escritorio\Exepciones\obj\Debug\net6.0\Exepciones.dll
+C:\Users\estel\OneDrive\Escritorio\Exepciones\obj\Debug\net6.0\refint\Exepciones.dll
+C:\Users\estel\OneDrive\Escritorio\Exepciones\obj\Debug\net6.0\Exepciones.pdb
+C:\Users\estel\OneDrive\Escritorio\Exepciones\obj\Debug\net6.0\Exepciones.genruntimeconfig.cache
+C:\Users\estel\OneDrive\Escritorio\Exepciones\obj\Debug\net6.0\ref\Exepciones.dll
